@@ -3,8 +3,7 @@
 
 ## Produced all project Bill of Quantities (BOQs), 3D models, and visualizations.
 
-## The Projects
-
+## The Projects:
 ### 1. Logipoint Warehouse Project, Jeddah, KSA
 ### 2. Jamjoom Pharmaceutical Factory, Jeddah, KSA
 ### 3. Food Manufacturing Group Plant (FMG), Jeddah, KSA
