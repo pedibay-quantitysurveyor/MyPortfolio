@@ -2,6 +2,10 @@
 
 ## All of these project perspectives, visualizations, and renders are my work, as well as the BOQs.
 
-### The Projects
+### Logipoint, Jeddah, KSA
+### Jamjoom Pharma, Jeddah, KSA
+### Food Manufacturing Group (FMG)
 
-Logipoint
+
+
+
