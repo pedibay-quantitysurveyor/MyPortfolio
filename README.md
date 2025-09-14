@@ -17,6 +17,7 @@
 ### 11. Bandar Shekan Villa, Jeddah, KSA
 ### 12. McDonals Restaurants Project, Jeddah, KSA
 
+ (Pls. click the folder "MyExcelSheetSample" & "TheProjects")
 
 
 
