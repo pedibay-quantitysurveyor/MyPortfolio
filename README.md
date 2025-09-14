@@ -1,6 +1,7 @@
 # MyPortfolio
 
 ## Produced all project Bill of Quantities (BOQs), 3D models, and visualizations.
+##  (Pls. click the folder "MyExcelSheetSample" & "TheProjects")
 
 ## The Projects:
 
@@ -17,7 +18,7 @@
 ### 11. Bandar Shekan Villa, Jeddah, KSA
 ### 12. McDonals Restaurants Project, Jeddah, KSA
 
- (Pls. click the folder "MyExcelSheetSample" & "TheProjects")
+
 
 
 
