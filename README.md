@@ -5,7 +5,6 @@
 ## "MyExcelSheetSample" -> "Excel Samples"
 ## "TheProjects" -> "Project Perspectives"
 
-
 ### 1. Logipoint Warehouse Project, Jeddah, KSA
 ### 2. Jamjoom Pharmaceutical Factory, Jeddah, KSA
 ### 3. Food Manufacturing Group Plant (FMG), Jeddah, KSA
