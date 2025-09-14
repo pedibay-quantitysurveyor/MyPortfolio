@@ -1,6 +1,6 @@
 # MyPortfolio
 
-## All of these project perspectives, visualizations, and renders are my work, as well as the BOQs.
+## All of these project BOQs are my work, as well as the 3D perspectives, visualizations and renders.
 
 ### 1. Logipoint Warehouse Project, Jeddah, KSA
 ### 2. Jamjoom Pharmaceutical Factory, Jeddah, KSA
