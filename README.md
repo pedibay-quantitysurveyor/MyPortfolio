@@ -1,6 +1,6 @@
 # MyPortfolio
 
-## All of these project BOQs are my work, as well as the 3D perspectives, visualizations and renders.
+## Produced all project Bill of Quantities (BOQs), 3D models, and visualizations.
 
 ## The Projects:
 
